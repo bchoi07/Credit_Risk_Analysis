@@ -26,4 +26,6 @@ The purpose of this analysis was to create supervised machine learning models to
 
 ## Summary
 
-Overall, 
+The results show that the oversampling and SMOTEENN sampling both result in similar accuracies with around 62-63% overall. The undersampling does worse at around 50%, while the two ensemble classifiers do well with over 90% accuracy.
+
+Overall, I would choose either the random forests model or the AdaBoost model based on the high accuracy and precision/recall.
